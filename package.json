@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zida-bi/nodeDemo/issues"
   },
-  "homepage": "https://github.com/zida-bi/nodeDemo"
+  "homepage": "https://github.com/zida-bi/nodeDemo",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
 }
